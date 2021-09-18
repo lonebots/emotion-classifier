@@ -20,3 +20,5 @@ Deeplearning model for classification of emotions from audio files done as a par
   * model fiting
   * predition
   * validation
+
+***Notice : The model doesn't work very well***
